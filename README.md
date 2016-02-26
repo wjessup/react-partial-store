@@ -22,6 +22,10 @@ Mutation of data has to happen through calling the Actions that flow through the
 
 By forcing the data-flow to be in a single direction, it will be easier to follow how data changes will affect the whole application depending on what actions have been issued.
 
+Here's a diagram that explains what this actually means and how to implement it:
+
+![Draw an Owl](http://i.imgur.com/nCec3EU.jpg)
+
 ## Content
 
 - [Installation](#installation)
